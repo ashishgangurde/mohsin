@@ -1,0 +1,79 @@
+
+ 
+ Trainer : Ravi Tambade
+ CDAC ACTS IACSD Pune
+
+ Good Afternoon
+
+
+ 25/4/2019
+
+Duration : 2 hours
+
+
+ Tasks for Todays Lab ,Interact with your  Lab partner and answer following questions in your notebook :
+
+ 1.Explore ECommerce Application Amazon.in
+ 
+ 2.List down characteristics of ECommerce Applications
+
+ 3.Applying Software Engineering principles for Identifying  ECommerce Application
+	
+ 4.Pros and Cons of ECommerce Applications
+ 
+ 5.Functional and Non Funcatinoal Requirements of ECommerce Applicatoin
+
+ 6.Gathering Requirements of ECommerce Application
+
+ 7.Key Features of ECommerce Applications
+
+ 8.Application Development Life Cycle  Management (ALM) for ECommerce Application
+ 
+ 9.Identify  Impack of E-Commerce
+
+ 10.Identify Effects on Firms:
+ 
+ 11.What are  requiementrs of Traditional Shopping store ?
+
+ 12.Positive effects of e-commerce on society
+
+ Design E-commerce solution
+
+ 13. What is the Objective:
+	 
+ 14.Business Aim of Web site
+	 
+ 15.Mission of Online EStore
+	 
+ 16.Features of EStore  for all users 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
